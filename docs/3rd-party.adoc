@@ -1,0 +1,17 @@
+[[ch-3rd-party]]
+== Third Party Tools and Extensions
+
+Here is a collection of tools and extensions, such as, Home Manager module collections.
+Note, these are maintained outside the regular Home Manager flow
+so if you encounter problems please raise those in the corresponding project.
+
+If you have made something interesting related to Home Manager then
+you are strongly encouraged to create a PR that expands this chapter.
+
+[[sec-3rd-party-module-collections]]
+=== Module Collections
+:xhmm: https://github.com/schuelermine/xhmm
+
+- {xhmm}[xhmm — extra Home Manager modules]
++
+A collection of modules maintained by Anselm Schüler.
